@@ -1,5 +1,6 @@
 # Datos de la configuracion
 Presion: 7.12e2 torr
+
 | Delay | Tiempo _(ns)_ | Nombre Imagen |
 | --- | --- | --- |
 | 0 | 16 | IMG_0435.JPG |
