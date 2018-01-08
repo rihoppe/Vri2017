@@ -1,6 +1,7 @@
 # Datos de la configuracion
 Presion: 2.49e2 torr
 | Delay | Tiempo _(ns)_ | Nombre Imagen |
+| --- | --- | --- |
 | 0 | 16 | IMG_0469.JPG |
 | 1 | 148 | IMG_0470.JPG |
 | 2 | 272 | IMG_0471.JPG |
