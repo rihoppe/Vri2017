@@ -1,6 +1,8 @@
 # Datos de la configuracion
 Presion: 2.49e2 torr
+
 (atmosfera de aire)
+
 radio del aro: ~2mm
 
 | Delay | Tiempo _(ns)_ | Nombre Imagen |
